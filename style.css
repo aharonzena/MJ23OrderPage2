@@ -36,6 +36,11 @@
     width: 3vh;
     margin-left: -vh;
     border-radius: 35%;
+    opacity: 70%;
+}
+
+.Icons:hover{
+    opacity: 100%;
 }
 
 
@@ -54,6 +59,7 @@ a {
     text-decoration: none;
     color: azure;
 }
+
 
 .Logo {
     width: 12.5vh;
